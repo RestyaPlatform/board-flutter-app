@@ -1,2 +1,8 @@
-# board-flutter-app
-Restyaboard mobile app development using Flutter
+# restyaboard
+
+Restyaboard mobile app.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
