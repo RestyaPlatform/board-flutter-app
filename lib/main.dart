@@ -13,6 +13,7 @@ class RestyaboardApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return new MaterialApp(
         title: 'Restyaboard',
+        //debugShowCheckedModeBanner: false,
         theme: new ThemeData(
             primarySwatch: Colors.blue,
             primaryColor: const Color(0xFFf47564),
